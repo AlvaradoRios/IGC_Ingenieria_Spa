@@ -1,8 +1,8 @@
 
-*{
+/**{
     margin: 0;
     padding: 0;
-}
+}*/
 body{
     color: #FFFF00;
     background: #C0C0C0;
@@ -19,8 +19,8 @@ h2,h4,h6{
     padding: 10px;
 }
 .contenedor_principal{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    /*margin-top: 0px;*/
+    margin-bottom: -10px;
 
 }
 .externo{
@@ -31,11 +31,12 @@ h2,h4,h6{
 }
 
 .header{
-    background:#008000;
+    background:#053c5a;
+   
 }
 
 .sidebar1{
-    background:#FF00FF;
+    background:#bdb7bd;
 }
 
 .sidebar2{
@@ -48,8 +49,61 @@ h2,h4,h6{
 }
 
 .footer{
-    color: #FFFF00;
+    /*color: #FFFF00;
     background: #C0C0C0;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: -10px;*/
+
+   /* position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;*/
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /*background-color: red;*/
+  background: #C0C0C0;
+  color: white;
+  text-align: center;
 }
+
+.colorNav{
+    background-color: #d6c712;
+}
+.letrasNegras{
+    color:black;
+}
+
+
+.letraBlanca{
+    color:white;
+}
+
+.centrado{
+    text-align: center!important;
+}
+.margenesSeccion{
+    border-radius: 10%;
+
+}
+
+/*.navSigue{
+
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: red;
+  /*background: #C0C0C0;*/
+/*  color: white;
+  text-align: center;*/
+
+/*}*/
+
+
+/*a{
+    color: black;
+
+}*/
