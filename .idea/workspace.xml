@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c5e101-6668-44e5-bc8f-fc652b332971" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/contacto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/css/estilos.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,14 +155,22 @@
       <option name="project" value="LOCAL" />
       <updated>1599102474099</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="formulario contacto, se agrega estilo letras azules">
+      <created>1599107812468</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599107812468</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="carpeta" />
     <MESSAGE value="jquery" />
-    <option name="LAST_COMMIT_MESSAGE" value="jquery" />
+    <MESSAGE value="formulario contacto, se agrega estilo letras azules" />
+    <option name="LAST_COMMIT_MESSAGE" value="formulario contacto, se agrega estilo letras azules" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="188" key="#Notifications" timestamp="1598855855789">
@@ -175,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598856088665" />
-    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1599102472362">
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1599107810598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599102472362" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599107810598" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598981169038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,9 +193,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598924229914" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599102479893">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599107818225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599102479893" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599107818225" />
   </component>
 </project>
