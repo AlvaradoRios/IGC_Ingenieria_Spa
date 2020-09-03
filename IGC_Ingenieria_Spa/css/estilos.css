@@ -80,6 +80,10 @@ h2,h4,h6{
 .letraBlanca{
     color:white;
 }
+.letraAzul{
+    color:blue;
+
+}
 
 .centrado{
     text-align: center!important;
