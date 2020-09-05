@@ -1,0 +1,54 @@
+body {
+    font-family: Arial;
+  }
+
+  p {
+    clear: both;
+    float: left;
+    width: 180px;
+    color: blue;
+  }
+
+  input {
+    float: left;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+
+  label {
+    clear: both;
+    float: left;
+    width: 180px;
+  }
+
+  textarea {
+    clear: both;
+    float: left;
+    width: 180px;
+    margin-bottom: 10px;
+  }
+
+  select {
+    clear: both;
+    float: left;
+    width: 180px;
+    margin-bottom: 10px;
+  }
+
+  button {
+    clear: both;
+    float: left;
+    width: 100px;
+  }
+
+  .error-control {
+    border: 1px solid red;
+  }
+
+  label.error {
+    color: red;
+    width: 300px;
+    font-size: 0.8em;
+    margin-top: -5px;
+    margin-bottom: 10px;
+  }
