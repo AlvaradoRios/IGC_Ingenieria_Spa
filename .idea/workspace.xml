@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c5e101-6668-44e5-bc8f-fc652b332971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/MantenimientoIndustrial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/contacto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/obrasCiviles.html" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/obrasCiviles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IGC_Ingenieria_Spa/obrasMenores.html" beforeDir="false" afterPath="$PROJECT_DIR$/IGC_Ingenieria_Spa/obrasMenores.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599526566628</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="se agregar link y obras civiles">
+      <created>1600132101025</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1600132101025</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +324,8 @@
     <MESSAGE value="cambios en el formulario contacto" />
     <MESSAGE value="se agrega hobras menores" />
     <MESSAGE value="se agregan obras civiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agregan obras civiles" />
+    <MESSAGE value="se agregar link y obras civiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregar link y obras civiles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="188" key="#Notifications" timestamp="1598855855789">
@@ -331,10 +336,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598856088665" />
-    <state x="1586" y="0" key="CommitChangelistDialog2" timestamp="1599526564501">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1600132097174">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599524581861" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600132097174" />
     <state x="1586" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1599526564501" />
     <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599367777623" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1600130012674">
@@ -346,10 +351,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598924229914" />
-    <state x="1641" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599526567058">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600132103603">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599524585084" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600132103603" />
     <state x="1641" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1599526567058" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599367781326" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599524493695">
