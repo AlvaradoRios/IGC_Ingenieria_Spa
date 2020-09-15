@@ -49,15 +49,7 @@ h2,h4,h6{
 }
 
 .footer{
-    /*color: #FFFF00;
-    background: #C0C0C0;
-    margin-top: 20px;
-    margin-bottom: -10px;*/
 
-   /* position: fixed;
-    height: 100px;
-    bottom: 0;
-    width: 100%;*/
 
   position: fixed;
   left: 0;
@@ -101,31 +93,11 @@ h2,h4,h6{
   width: 20%!important;
 }
 
-/*.navSigue{
 
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  background-color: red;
-  /*background: #C0C0C0;*/
-/*  color: white;
-  text-align: center;*/
-
-/*}*/
-
-
-/*a{
-    color: black;
-
-}*/
 aside {
- /* width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: lightgray;*/
+  /*float: left;
+  width: 25%;
+  margin-left: 5%;*/
 
   width: 30%;
   padding-right: 15px;
@@ -133,4 +105,8 @@ aside {
   float: left;
   font-style: italic;
   background-color: lightgray;
+   /*margin-top: 20px;
+    margin-bottom: 20px;
+    */
+
 }
