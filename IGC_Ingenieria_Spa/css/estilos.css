@@ -119,3 +119,18 @@ h2,h4,h6{
     color: black;
 
 }*/
+aside {
+ /* width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;*/
+
+  width: 30%;
+  padding-right: 15px;
+  margin-right: 15px;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
